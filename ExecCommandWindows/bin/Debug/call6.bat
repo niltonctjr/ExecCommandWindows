@@ -1,0 +1,1 @@
+ExecCommandWindows.exe [GSEReconcileIndividual.exe %%x salva] 1200 true

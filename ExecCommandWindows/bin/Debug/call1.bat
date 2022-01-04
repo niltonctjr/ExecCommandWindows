@@ -1,0 +1,1 @@
+for /f "delims=" %%x in (versions1.txt) do ExecCommandWindows.exe GSEReconcileIndividual.exe %%x,salva 1200 true
