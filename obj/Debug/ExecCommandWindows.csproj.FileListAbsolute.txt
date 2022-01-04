@@ -1,7 +1,0 @@
-C:\Users\ntavares\source\repos\ExecCommandWindows\ExecCommandWindows\bin\Debug\ExecCommandWindows.exe.config
-C:\Users\ntavares\source\repos\ExecCommandWindows\ExecCommandWindows\bin\Debug\ExecCommandWindows.exe
-C:\Users\ntavares\source\repos\ExecCommandWindows\ExecCommandWindows\bin\Debug\ExecCommandWindows.pdb
-C:\Users\ntavares\source\repos\ExecCommandWindows\ExecCommandWindows\obj\Debug\ExecCommandWindows.csproj.CoreCompileInputs.cache
-C:\Users\ntavares\source\repos\ExecCommandWindows\ExecCommandWindows\obj\Debug\ExecCommandWindows.exe
-C:\Users\ntavares\source\repos\ExecCommandWindows\ExecCommandWindows\obj\Debug\ExecCommandWindows.pdb
-C:\Users\ntavares\source\repos\ExecCommandWindows\ExecCommandWindows\obj\Debug\ExecCommandWindows.csproj.AssemblyReference.cache
